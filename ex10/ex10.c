@@ -17,7 +17,7 @@ Enter nr. of array element to change: 17
 Enter value for element 17: 9
 Enter nr. of array element to change: 5
 Enter value for element 5: 54
-and so on…
+and so onâ€¦
 Enter nr. of array element to change: 99
 The sum of numbers if: 125*/
 #include <stdio.h>
@@ -29,7 +29,7 @@ int main()
 	int number;
 	int sum = 0;
 
-	printf("Enter 99 to stop.\n");
+	printf("Enter 99 to stop...\n");
 
 	do {
 		printf("Enter nr. of array element to change: ");
